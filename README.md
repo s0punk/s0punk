@@ -1,6 +1,6 @@
 # 👋 About Me:
-🔭 Working on multiple mobile apps with flutter.<br>
-🌱 Slowly learning Godot as well.<br>
+🔭 Working on mobile apps with flutter.<br>
+🌱 Making games with Godot.<br>
 🎓 Getting a software engeeniring degree at ÉTS.
 
 
