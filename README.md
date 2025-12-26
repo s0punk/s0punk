@@ -1,4 +1,4 @@
-# 👋 About Me:
+# 👋 About Me
 🔭 Working on mobile apps with flutter.<br>
 🌱 Making games with Godot.<br>
 🎓 Getting a software engeeniring degree at ÉTS.
